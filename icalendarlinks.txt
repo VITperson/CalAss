@@ -1,0 +1,51 @@
+Вот список полезных ссылок и ресурсов для работы и интеграции с iCalendar (формат .ics), который можно использовать в приложении для создания, редактирования и чтения событий:
+
+⸻
+
+📘 Стандарты и спецификации
+	1.	RFC 5545 (iCalendar Spec) – основная спецификация iCalendar:
+🔗 https://icalendar.org/RFC-Specifications/iCalendar-RFC-5545/
+	2.	RFC 2445 (предыдущая версия) – полезно для совместимости:
+🔗 https://tools.ietf.org/html/rfc2445
+
+⸻
+
+🧰 Библиотеки и инструменты
+
+Python
+	3.	icalendar (PyPI) – библиотека для генерации и чтения .ics файлов:
+🔗 https://pypi.org/project/icalendar/
+	4.	icalendar документация (readthedocs):
+🔗 https://icalendar.readthedocs.io/en/latest/
+
+Java
+	5.	ical4j (GitHub) – библиотека для Java:
+🔗 https://github.com/ical4j/ical4j
+	6.	ical4j документация (официальный сайт):
+🔗 https://ical4j.github.io/ical4j/
+
+JavaScript
+	7.	ical.js (Mozilla) – библиотека на JS:
+🔗 https://github.com/mozilla-comm/ical.js
+	8.	ical.js документация и примеры:
+🔗 https://mozilla-comm.github.io/ical.js/
+
+⸻
+
+🔄 Примеры и генераторы
+	9.	iCalendar Validator – онлайн-проверка .ics файлов:
+🔗 https://icalendar.org/validator.html
+	10.	Eventable ICS Generator – генерация событий в формате iCalendar:
+🔗 https://www.eventable.com/tools/ics-generator/
+	11.	ICS File Generator (Simple) – минималистичный генератор событий:
+🔗 https://ical.marudot.com/
+
+⸻
+
+🔗 Интеграции с календарями
+	12.	Google Calendar – Подключение iCal по URL:
+🔗 https://support.google.com/calendar/answer/37100
+	13.	Apple Calendar – Импорт .ics:
+🔗 https://support.apple.com/guide/calendar/import-and-export-calendars-icl1022/mac
+	14.	Microsoft Outlook – Импорт .ics:
+🔗 https://support.microsoft.com/en-us/office/import-or-subscribe-to-a-calendar-in-outlook-com-or-outlook-on-the-web-503ffaf6-7b86-44fe-8dd6-8099d95f38df
